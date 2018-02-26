@@ -1,0 +1,19 @@
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\bin\Debug\Gather Klient.exe.config
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\bin\Debug\Gather Klient.exe
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\bin\Debug\Gather Klient.pdb
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.login_scr.resources
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.Properties.Resources.resources
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather Klient.csproj.GenerateResource.Cache
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather Klient.exe
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather Klient.pdb
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather Klient.csprojResolveAssemblyReference.cache
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.custom_messagebox.resources
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.main_hub_scr.resources
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.home_scr.resources
+c:\users\evere\onedrive\dokumendid\visual studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.play_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.stats_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.warmup_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.reg_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.update_prof_pic_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.lobby_scr.resources
+C:\Users\evere\OneDrive\Dokumendid\Visual Studio 2015\Projects\Gather Klient\Gather Klient\obj\Debug\Gather_Klient.ready_scr.resources
